@@ -1,0 +1,748 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htmlspec",
+				"htmlspecialchars_decode"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"p",
+				"pageName"
+			],
+			[
+				"preg_mat",
+				"preg_match_all"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"body",
+				"bodytext"
+			],
+			[
+				"ob_",
+				"ob_flush"
+			],
+			[
+				"ob",
+				"ob_flush"
+			],
+			[
+				"inc",
+				"incl1	include_once …"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"tit",
+				"titleText"
+			],
+			[
+				"mysq_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"foot",
+				"footprint-nigeria"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pop",
+				"popup-bdr"
+			],
+			[
+				"ce",
+				"cell"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"inline",
+				"inline-list"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"da",
+				"database"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"em",
+				"emailAddress"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"col",
+				"color-primary_desaturate"
+			],
+			[
+				"ts",
+				"tsh+	text-shadow+"
+			],
+			[
+				"td",
+				"td:u	text-decoration:underline"
+			],
+			[
+				"colo",
+				"color-primary_Xlight"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"debu",
+				"debug_info"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"linear",
+				"linear-gradient"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"Ba",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"d",
+				"d:i	display:inline"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"Font-",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-kerning"
+			],
+			[
+				"b",
+				"bg	background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"enc",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"encode",
+				"StringEncode: HTML Entitize"
+			],
+			[
+				"doc",
+				"Snippet: $(document).ready"
+			],
+			[
+				"docum",
+				"Snippet: document.ready - $(function()"
+			],
+			[
+				"css",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marnu/Desktop/WIP/IND_Event Registration Framework/_local/js/jquery.migrate-1.2.1.min.js",
+		"/Users/marnu/Desktop/WIP/IND_Event Registration Framework/_local/js/jquery-1.10.2.min.js",
+		"/Users/marnu/Desktop/WIP/IND_Event Registration Framework/_local/js/jquery-1.9.1.min.js",
+		"/Applications/MAMP/logs/php_error.log",
+		"/Applications/MAMP/logs/mysql_error_log.err",
+		"/Applications/MAMP/logs/apache_error.log",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/css/style.css",
+		"/Users/marnu/Desktop/Cigarette/Cigarette.m3u",
+		"/Users/marnu/Dropbox/MHSC - Annual Report_2013/Proofs/MHSC - Annual Report_2013-Draft 2.1.11.txt",
+		"/Volumes/HDD/Work/Indigo/Indigo New Media/Coded-Live Sites/Kidney Beanz/_local/color-schemes/default/css/ccp-color.css",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/test.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/submit.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/edit.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/index.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/displayContent.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/head.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/about.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/loginSystem.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/dbQuery.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/makeAdminForm.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/login.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/test.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/TODO",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/functions/includeFunction.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/static/config.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/js_dev/plugins/popline.decoration.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/js_dev/plugins/popline.justify.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/scss/_font-awesome.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/scss/_popclip.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/js/popline.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/bleh.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/scss/style.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/index.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/PhpConsole.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/_class/_PhpConsole.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/footer.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/national-footprint.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_tooltip.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_footprint-map.scss",
+		"/Users/marnu/Library/Application Support/Sublime Text 2/Packages/MacTerminal/Default.sublime-keymap",
+		"/Users/marnu/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/mixins/_triangle.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/_mixins.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/tooltip.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/config.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/app.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/TODO",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/media-centre.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/navbar.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/jumpTo.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/equalHeights.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/corporate-governance.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!--Roughs/legal.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/legal.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/people.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/community.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_navbar.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_gallery.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_download-object.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_media-object.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/style.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/styles/_lists.scss",
+		"/Users/marnu/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js/scripts.min.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/download-object.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_3d-blocks.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/admin/index-old.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/config.rb",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/_template.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/contact.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/end-to-end.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/icms.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/modal-contact.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/<!-- Roughs/_ICMS.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/nav.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/quote-form.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/contact-form.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/transition.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js/jquery-1.8.1.min.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/application/configs/application.ini",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/functions/captcha.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/config.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/library/Zend/Session.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/sitecake_entry.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-project",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-workspace",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/hosted.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/Find Results",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/02AAE9926B117B696D3E072FCC1017AA.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/02C453CC22A22D655FA5A88AC55371F0.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/8D54B12DAA0F54420FFE0B6668B431C9.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/9921A1AC523E5235CFDA2C65FEA193A2.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/D1DA510A6F91109D5C1F5956E4237B40.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/publicmanager/6F6E0CC3362178F332E659C98F760C1A.cache.html",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/risk-management.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/settings.ini",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/.htaccess",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/application/controllers/ErrorController.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/application/services/ContentService.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/server/application/controllers/RenderController.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/static/contact-details.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/media-center.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/_extends.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_navblocks.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/editor.cfg",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake/client/contentmanager/deferredjs/0A1E20DC3E01B9679F477AC50420E33D/10.cache.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/contact-our-ceo.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/coolautoTest.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/display-table.htc",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/industry-representations.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/managing-our-risk.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/request-a-quote.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/<!-- Roughs/what-we-offer.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake-content/temp/cache_page---e251273eb74a8ee3f661a7af00915af1",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sitecake-content/temp/cache_tpl---e251273eb74a8ee3f661a7af00915af1",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/database/cities.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/functions/hideMail.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_modules.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/select2.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/coolautoTest.php",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_select2.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js/select2.min.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js/coolautosuggest.min.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/js_dev/coolautosuggest.js",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/objects/_coolAutoSuggest.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/css/style.css.map",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/styles/_media.scss",
+		"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass/vars/_color-vars.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local",
+			"",
+			"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/",
+			"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Structure/_local/",
+			"/objects",
+			"/Volumes/H",
+			"/scss/",
+			"/Volumes",
+			".scss",
+			"/Users/marnu/Desktop/JoAnke/",
+			"JoAnke/_local/scss",
+			"Jo An",
+			"Jo",
+			".scss",
+			"/Volumes",
+			"cp: ",
+			" Device not configured",
+			": could not copy extended ",
+			"scss//",
+			"#EXTINF",
+			"#EXTINF:160",
+			"InvalidListStyle",
+			"<InvalidListStyle>",
+			"button",
+			"input",
+			"                                                                  ",
+			"\n",
+			"include(",
+			"include ",
+			"JustifyLeft",
+			"font/",
+			"/font",
+			"content",
+			"bodyT",
+			"p>",
+			"p",
+			"push--one-third",
+			"solid $color",
+			"arent",
+			"0.4s)",
+			" 0.4s)",
+			"all",
+			"_Wholesale",
+			"_CIT",
+			"_Cash",
+			"this",
+			"1",
+			" ",
+			"h1",
+			"five-sixths",
+			"section",
+			"dArr",
+			"g one-third lap-one-half palm-one-whole",
+			"one-third lap-",
+			"whole",
+			"first-in-row",
+			"img/homeless",
+			"img/siyazigabiza",
+			"<figure class=\"\">",
+			"g first-in-row one-third lap-one-half palm-one-whole",
+			"<img",
+			"alt",
+			"ontainer",
+			"container",
+			"min-",
+			"1",
+			"2",
+			"container",
+			"bleh",
+			"<a href=\"#\" data-reveal-id=\"people-modal\"",
+			"class=\"container",
+			"</a>\n	</div>\n",
+			"</div>\n",
+			"<div class=\"clearfix\">",
+			"container g one-half palm-one-whole clearfix equalHeights",
+			"<div class=\"g one-half palm-one-whole clearfix ",
+			"container",
+			"<div class=\"g one-half palm-one-whole clearfix",
+			".",
+			" class=\"less-bold\"",
+			"class=\"less-bold\"",
+			"sc-content-",
+			"<?",
+			"sc-content-",
+			"whol",
+			" sc-content-about_",
+			"sc-content-community_",
+			"three",
+			"thre",
+			"Polyurethane Dispensing Unit",
+			"sc-content-",
+			"Sales Con",
+			"companycompany",
+			"Businessbusiness",
+			"businessbusiness",
+			"Businessbusiness",
+			"businessbusiness",
+			"Businessbusiness",
+			"businessbusiness",
+			"Businessbusiness",
+			"usinessbusiness",
+			"companycompany",
+			"include '",
+			"include",
+			" include ",
+			"include ",
+			"<?php include \"sitecake/server/sitecake_entry.php\"; ?>",
+			"session_start()",
+			"session.auto-start",
+			"session",
+			"session.save_path",
+			"resources.session.save_path",
+			"iVBORw0KGgoAAAANSUhEUgAAAEMAAAAvCAYAAAC4/HdSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQVJREFUeNrsWr1uE0EQtqNUUNhvYD8Akg0v4EtDgSLZkRCUuTSUxClT2emR4oiSIheJBppcJERBk/MDoDgSBQ3iXEU0YEuhAaQwE74lo83er8/2OcpIq9Pd7a53v5355udcvLi4KNzKP1m6heBKlvOykIdPbIsudWpl7dWAmv/hrTOY9hqK8zQTAqBKly61FrVSRPcxNZcbAePeKDAICAahIzbqUPNYE2izvkFrGDgLjbWnx436jhYWDNpYGSfcAAiJNwWNajN4rCU8ZxagzAMMTwBhTcoFNJ8DrrEmBWRpxkD0sgQCwiZVg5kthmbA7o9xu5YlCQptW6F5vUXQjC6u/Sl4AxvXdu7NhE6ujpMrgDAzFXifI2pNEHSuNcMHT8hTzFqUtlm5BgMsrzSCT681RTDquecMAoQ54xS3TlJ1ZlNTIHKcoY8H4Ke51wyN6MYIvZ2U4wuIQBlQnTC9SRY3j6CLN7SP2z060XaCsRfUvxjynufaDeuTqxSeFsoasYXbTYCT1DMFyURB3FzqGQQIk+kebvcRmcbJaQqGFF/KSOu7GMUdmMeG0BAPCViQXNOIp86nOjWPr5hzoAV4iwGGMJn71IYIyr5y4hUAiiVPXxAmj2NA5JjE5jd3MNRpUuON7MDTrAMUTs1tofIt7fQlMCURZ4yF+SUKz4t5Kghj4zZyjIp4dYrMlPMaS5gJA3Qo+h38eP+iB41RlbM+6iXuQoFh8Bo2zKOGx1sgX8kbvMmmARBXA3QsvY0ENfdgxBUCowxNqInH/d/fvjw//3j4wJALqTqqf+PAACBVnHpJ0wQm6N4b+56/cJwxiTx6tr16t776eulOyVRlHyJzVuG6TwA5ufMmWcmf0dn52HtV+nX2+SU2L6UCF8zEXAUw12S5cHPk0s3+PHn3/XD7cRWmI2OPEWnDILWZIGW2NbYeQ91cBE0yAbNDag2Oql6jos0LHdGzVoRXcRGCD6KSOk7kuOIVNWfioAsLPtSAUAFOE0GNdE9VqKKp7TKAIrL08Ty00IN3TfT1Y+4p2+IOTnldaMIRMs0NJFjjiHl3RFMFnZqIEh1DjSKsflGIWf/g36qkTdSWYyyiqwc6+DTYjahq/R8PVecTruHrl0/XAwDO2lE1fFKsCq08iPmBaADQW2mKR8thZBRUI8DCksT9A7GxOjjHEdrXNsyXVCtU4raOsU5WnCHj+F5EQSWOtHSg8bFnGGIq6tkwwYch1a+RZs1hYIyFrZ9wASZlEbcrQuW+lnUq8yvJlBvEWdH6xMmAffBbonGhYMAMLC142WRG581FgcIuDm7upHD1t4MjTUOU+pu+p7RTmIgOcAMecXLXihOsizqDcqsdgGIlXGQTJlfWQHelaoM4GwmJU67bEyVFK6J6Fj8c54XAM6jii4w1jkPsckW0NaG66wCybDhJE5E6aQgKwRmvt27KTjNJ1ICyq3GAJdxtB4spGsa2EXxdq0vQO+USpQYOUQGbmSwlRNwHl6hFNxIMl6dsBdh5SaThvcKMJSgCdYM4ATac5h8yVkjs4hqiWmfWYAQFXWVwwg4SLB8glRF5VkSdIMq0ygDCCYhjLgEG82+mJc5pgqGEOaBDC5X5hZRuSPYYJAcBf1/qCTBmrhVhnMGb7Iv7mgYEq/SGTOFjiBpjh/BRP2HEOX3NwGKUj7a0IomPWsbIYONehP+PEnue1aHi7R/pU7rWmy5/BRgAQpVg+VLq/OwAAAAASUVORK5CYII=",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAvCAYAAAC4/HdSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQVJREFUeNrsWr1uE0EQtqNUUNhvYD8Akg0v4EtDgSLZkRCUuTSUxClT2emR4oiSIheJBppcJERBk/MDoDgSBQ3iXEU0YEuhAaQwE74lo83er8/2OcpIq9Pd7a53v5355udcvLi4KNzKP1m6heBKlvOykIdPbIsudWpl7dWAmv/hrTOY9hqK8zQTAqBKly61FrVSRPcxNZcbAePeKDAICAahIzbqUPNYE2izvkFrGDgLjbWnx436jhYWDNpYGSfcAAiJNwWNajN4rCU8ZxagzAMMTwBhTcoFNJ8DrrEmBWRpxkD0sgQCwiZVg5kthmbA7o9xu5YlCQptW6F5vUXQjC6u/Sl4AxvXdu7NhE6ujpMrgDAzFXifI2pNEHSuNcMHT8hTzFqUtlm5BgMsrzSCT681RTDquecMAoQ54xS3TlJ1ZlNTIHKcoY8H4Ke51wyN6MYIvZ2U4wuIQBlQnTC9SRY3j6CLN7SP2z060XaCsRfUvxjynufaDeuTqxSeFsoasYXbTYCT1DMFyURB3FzqGQQIk+kebvcRmcbJaQqGFF/KSOu7GMUdmMeG0BAPCViQXNOIp86nOjWPr5hzoAV4iwGGMJn71IYIyr5y4hUAiiVPXxAmj2NA5JjE5jd3MNRpUuON7MDTrAMUTs1tofIt7fQlMCURZ4yF+SUKz4t5Kghj4zZyjIp4dYrMlPMaS5gJA3Qo+h38eP+iB41RlbM+6iXuQoFh8Bo2zKOGx1sgX8kbvMmmARBXA3QsvY0ENfdgxBUCowxNqInH/d/fvjw//3j4wJALqTqqf+PAACBVnHpJ0wQm6N4b+56/cJwxiTx6tr16t776eulOyVRlHyJzVuG6TwA5ufMmWcmf0dn52HtV+nX2+SU2L6UCF8zEXAUw12S5cHPk0s3+PHn3/XD7cRWmI2OPEWnDILWZIGW2NbYeQ91cBE0yAbNDag2Oql6jos0LHdGzVoRXcRGCD6KSOk7kuOIVNWfioAsLPtSAUAFOE0GNdE9VqKKp7TKAIrL08Ty00IN3TfT1Y+4p2+IOTnldaMIRMs0NJFjjiHl3RFMFnZqIEh1DjSKsflGIWf/g36qkTdSWYyyiqwc6+DTYjahq/R8PVecTruHrl0/XAwDO2lE1fFKsCq08iPmBaADQW2mKR8thZBRUI8DCksT9A7GxOjjHEdrXNsyXVCtU4raOsU5WnCHj+F5EQSWOtHSg8bFnGGIq6tkwwYch1a+RZs1hYIyFrZ9wASZlEbcrQuW+lnUq8yvJlBvEWdH6xMmAffBbonGhYMAMLC142WRG581FgcIuDm7upHD1t4MjTUOU+pu+p7RTmIgOcAMecXLXihOsizqDcqsdgGIlXGQTJlfWQHelaoM4GwmJU67bEyVFK6J6Fj8c54XAM6jii4w1jkPsckW0NaG66wCybDhJE5E6aQgKwRmvt27KTjNJ1ICyq3GAJdxtB4spGsa2EXxdq0vQO+USpQYOUQGbmSwlRNwHl6hFNxIMl6dsBdh5SaThvcKMJSgCdYM4ATac5h8yVkjs4hqiWmfWYAQFXWVwwg4SLB8glRF5VkSdIMq0ygDCCYhjLgEG82+mJc5pgqGEOaBDC5X5hZRuSPYYJAcBf1/qCTBmrhVhnMGb7Iv7mgYEq/SGTOFjiBpjh/BRP2HEOX3NwGKUj7a0IomPWsbIYONehP+PEnue1aHi7R/pU7rWmy5/BRgAQpVg+VLq/OwAAAAASUVORK5CYII=\ndata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAvCAYAAAC4/HdSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQVJREFUeNrsWr1uE0EQtqNUUNhvYD8Akg0v4EtDgSLZkRCUuTSUxClT2emR4oiSIheJBppcJERBk/MDoDgSBQ3iXEU0YEuhAaQwE74lo83er8/2OcpIq9Pd7a53v5355udcvLi4KNzKP1m6heBKlvOykIdPbIsudWpl7dWAmv/hrTOY9hqK8zQTAqBKly61FrVSRPcxNZcbAePeKDAICAahIzbqUPNYE2izvkFrGDgLjbWnx436jhYWDNpYGSfcAAiJNwWNajN4rCU8ZxagzAMMTwBhTcoFNJ8DrrEmBWRpxkD0sgQCwiZVg5kthmbA7o9xu5YlCQptW6F5vUXQjC6u/Sl4AxvXdu7NhE6ujpMrgDAzFXifI2pNEHSuNcMHT8hTzFqUtlm5BgMsrzSCT681RTDquecMAoQ54xS3TlJ1ZlNTIHKcoY8H4Ke51wyN6MYIvZ2U4wuIQBlQnTC9SRY3j6CLN7SP2z060XaCsRfUvxjynufaDeuTqxSeFsoasYXbTYCT1DMFyURB3FzqGQQIk+kebvcRmcbJaQqGFF/KSOu7GMUdmMeG0BAPCViQXNOIp86nOjWPr5hzoAV4iwGGMJn71IYIyr5y4hUAiiVPXxAmj2NA5JjE5jd3MNRpUuON7MDTrAMUTs1tofIt7fQlMCURZ4yF+SUKz4t5Kghj4zZyjIp4dYrMlPMaS5gJA3Qo+h38eP+iB41RlbM+6iXuQoFh8Bo2zKOGx1sgX8kbvMmmARBXA3QsvY0ENfdgxBUCowxNqInH/d/fvjw//3j4wJALqTqqf+PAACBVnHpJ0wQm6N4b+56/cJwxiTx6tr16t776eulOyVRlHyJzVuG6TwA5ufMmWcmf0dn52HtV+nX2+SU2L6UCF8zEXAUw12S5cHPk0s3+PHn3/XD7cRWmI2OPEWnDILWZIGW2NbYeQ91cBE0yAbNDag2Oql6jos0LHdGzVoRXcRGCD6KSOk7kuOIVNWfioAsLPtSAUAFOE0GNdE9VqKKp7TKAIrL08Ty00IN3TfT1Y+4p2+IOTnldaMIRMs0NJFjjiHl3RFMFnZqIEh1DjSKsflGIWf/g36qkTdSWYyyiqwc6+DTYjahq/R8PVecTruHrl0/XAwDO2lE1fFKsCq08iPmBaADQW2mKR8thZBRUI8DCksT9A7GxOjjHEdrXNsyXVCtU4raOsU5WnCHj+F5EQSWOtHSg8bFnGGIq6tkwwYch1a+RZs1hYIyFrZ9wASZlEbcrQuW+lnUq8yvJlBvEWdH6xMmAffBbonGhYMAMLC142WRG581FgcIuDm7upHD1t4MjTUOU+pu+p7RTmIgOcAMecXLXihOsizqDcqsdgGIlXGQTJlfWQHelaoM4GwmJU67bEyVFK6J6Fj8c54XAM6jii4w1jkPsckW0NaG66wCybDhJE5E6aQgKwRmvt27KTjNJ1ICyq3GAJdxtB4spGsa2EXxdq0vQO+USpQYOUQGbmSwlRNwHl6hFNxIMl6dsBdh5SaThvcKMJSgCdYM4ATac5h8yVkjs4hqiWmfWYAQFXWVwwg4SLB8glRF5VkSdIMq0ygDCCYhjLgEG82+mJc5pgqGEOaBDC5X5hZRuSPYYJAcBf1/qCTBmrhVhnMGb7Iv7mgYEq/SGTOFjiBpjh/BRP2HEOX3NwGKUj7a0IomPWsbIYONehP+PEnue1aHi7R/pU7rWmy5/BRgAQpVg+VLq/OwAAAAASUVORK5CYII=\n",
+			"data:image/png;base64,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",
+			"ver 1.0.41",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAAYCAYAAACcESEhAAAJGElEQVR42tVae0xU6RXnD/7xj/lj/iDpkoZmSWpis9a4kO626u6YnYQldl2rzvBQi4KMQLsUhQUl7kJqWJQSY6spudnQNmh8sJBKbZVloMPISx7DQ3FwgGFmFnZ4D8MIii9uzxnuHc983JmhuNjtl/zC3PP67j3f+c4536dBQSsfcgGyoO//WAcIXiO7cuHvaxlhgK0lJSWZiLy8PA08vwMICaAT+j9w+Hp815+qD8WFvv3uR8J7flfvEY52owpKMvGvsAhrOtY3Nzdzz549c/FkzM/P269du5bvIwJCUaempqZYcMbrGKGb4pLVR3T9Nz4dfObKsfI84ljfvD2mzP0er+qosMTqnsuiXcS+cn38mkZ8f3//Dd7POHfu3FZWyWQyHRf5qC+RpjASNwkI+S4CBB1Mnc4itqzmwCvYD06oai1hbaY12wrXyvHBra2tJXyAYbMtfwGkMWIRdOvijpiYmOhA3Lx5M+dVAwSj3ZfTRWjqB/6y2gnePpC2QWphjz6YP7kmnk9LS9vAphoYWgGeMT09ne/P+c+fP7fSnNzT03OZ6s/Nzd1/hdcM2V/ZzHk5xbJoOG7jlZ8OLNz1ctT9h42rneRgVXu+1ILCPOFr4nyaOnA8fPjQKPLgMRxQLrCUrC4s2gmiqhLpmKLYnfPo0aPbq92Ze0v/kUudkT30wgIOced2TAmU90nXxIXV+iK1ZVjHOj7T9Fi/ZsmeTR1Op9PEFlcmnVC6XFgcjtKNRuNZ1vlPnz5NWc37/WRn7GYspkwkegIBUtEfvBbG7HMerEcKAesl2lOZj6hXvTbn48jNzY1aobpMqgsaHx+vofZevHjhxIWSimqhVY0QEMY4ZR3bebCReKTJ8neyI5zijmDmkO/mKneIclg7NqoObqRCqr/+60PW8dlmr1Qa5Oc8Eeg7pMfs7OznrPOHh4d1AboTdPgmPAckJyermYnCpqam2qi97u7uP5Gux7NwCoVCia0q7jYE/o6Njd0sCmw/UfR+gEgMhsUYITwNWyt+GLklGvt1tmYcqr53jgpqdKbjEnOJ9tAXW4XzBJv/ZWHvKpRoP6PXaULgb9yxAZ2PKUWqu6msrPzMR2+/Dh2OHQzKYbE+derUm6Lj0YF4NmBTmdj1iE4DnSRWDsfAwMtuJfHre5e8HGJ+PktfBKMc6GaEhONDd52/lu+rLT1mnG+gwrgYPqJeBrvmM9EO7kQSbMHvZZ1KYtPif9V1gQP/zToBnZqVlbWDlUWaRHekFNLN7wO1rCgXFRW1TcKGezgcjjviR7OOO3p35uJKuyM8DzBF2kmfM7q8u7f07ulWidoRrDhxJoF9D1iMN1Dnzfejtvla3N/1eL5jddEvRCo9soeIEc86VLCjevz48Ygf35/G/EttPHnypHRwcDBbfHa5XE1oi+ZoEb8xjGWsqjuy8Bwb2bRo48B0wfDlWBekolpoPeWfdE50eGrRwJPSlPrBbE+gGJe+Q6o4rBfybxhxXI6Ut/R6vedw1dnZmcryoX//G7WNKcbPwSsI0tlhyrxy5UpkbW1tEV0MlEuuM55d1vb1zQVsBFiHiekjvWuqjdpiUynlpXeO1+Bd0bKzxdJCnhaC4zCl7zx/JTLuUm0RXYxlRRq3PF4FYPTdu+dddBYXF79inYt5WSy+PtKKGEFhWEB97QpxYDFn743EFATzz+DZAuWOdY7rJSIu4L3NwRuGC1KtJ10QJt/L4GS72+usABEtEfFaulvomQBlveqLZXFGPJgJXZX7akYGH9+xsLDAI0ZHR++wfTs4xCryRbS0tKQiv6urS0PpcCCziVfQsEO4mZmZbykf8ncDe0XA2iYww1lA3CWheb2OkQzTAk+xgutd2W+7HXaqk3rXvWAySktp/VbM98Fbsr9IYHWkwBZzP7Lm9L6X3xFzVc+lG+dcQRzH7bBarbwISCPtEn2/hsogoINxp56qqqp8Sn/w4AHeecjOnDmTgc+Qu11SeqJjQL+EtQ0oxznpApWVlRWfbLXysXpv/Czri5/7u+18KzEricrvvXW/DxnbCrgdlL5H24fpK/gHEVu2q77us7PzqOv661XVxgZKI+lDtv3spSJWJ+62tTym3vs7FMVlxciL0ZmtQY2NjYVDQ0O8CGjrXFL9PJVBNDU1FSAdnKmj9PT09A8AGrTD6iBwPiFaw6TkDAZDO/lHGyzs71RUVHDIy20Z4tU6byj+eLVQIvpRf5OiqKxYVTvgovJ7qu9jylQo/3y9hNJ/pNy5OWRjZPSv/tljEuUoP/pi7a5fXm0spLQN8Ud+jHO9lXg0iZ3n4+vLv+ODCxWcyI+pH1K5nW+xWHiK0tLSXOaQJDMajXYqAzUC86aM1dXpdDfE3+CwryDyZykfiiunVqvj8C+ri8CdUlBQkJmRkaHBaKfzHm/o742pt/AUe6uN9vAP1XHCKRIbhq0RRwsyd103dLCyFOq6QRd9jiq9dZmlUURf1O36CJxPab/IO5+Pc0npIQ15GxMyNBjt+J4ens7iLtBBvb29n8MW5ykgddgjIyOjhZNbGPTxSawMQA4dyTYJuhuQOgwoYzKZen3JCHJD/vgEnLrOnBJ328ZLYc+tXtPuqs6OOJ3Z5UuGIrZ+yCpFj9dbDfENNhVLV0Na+riiudCnPb2NW9G8IOcJabvdHjEyMsKzAKe4tFrtZcjJHP6mPCjQOf50ARw6XqgXX/qQQTsdKOdPBuAAuK8PwCny/Y3DM/ubRvgVohx19umtXd70bwz7bltSfMnjXPsav7FQHtJj6/pP+pjH7dD4RtuXft7FcaB5ZPmFHHQ4tQB+JQCHG6guPhO+A5DDFGs50DoYO15yKAN2tFIy4iJ62sbWUVXCnVE+ABy/bnlpP+GOPQKgXeLZtehIBDybBXn4a/e6iljS8fAd7uuGtrFwoM/Queg8SzbFebzfRVzUZQMOQXLhnoX3B+jp8cJLzuqOjY0pESyPDtBXAXImJyc1vuTARjjaAZkIf73jYcNkRGL7pDaxfYJnYE7qmMhJvetc8b/ZBpLFubzue9rGlInt49yhtonTuBhSOkhHOVbX75ientYAtACewAHgpqamlN+3/x+CjkvunFIiDrU5w4P+z8Z/AFosp6vGVqYKAAAAAElFTkSuQmCC",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAAYCAYAAACcESEhAAAJGElEQ…ientYAtACewAHgpqamlN+3/x+CjkvunFIiDrU5w4P+z8Z/AFosp6vGVqYKAAAAAElFTkSuQmCC",
+			"sitecake-toolbox",
+			" ',",
+			"sitecake-toolbox",
+			"data:image/png",
+			"Application error",
+			"1",
+			"APPLICATION_ENV",
+			"production",
+			"APPLICATION_ENVIRONMENT",
+			"error",
+			"rrors = 1",
+			"business",
+			"company"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Fart",
+			">\n",
+			"",
+			"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAvCAYAAAC4/HdSAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABQVJREFUeNrsWr1uE0EQtqNUUNhvYD8Akg0v4EtDgSLZkRCUuTSUxClT2emR4oiSIheJBppcJERBk/MDoDgSBQ3iXEU0YEuhAaQwE74lo83er8/2OcpIq9Pd7a53v5355udcvLi4KNzKP1m6heBKlvOykIdPbIsudWpl7dWAmv/hrTOY9hqK8zQTAqBKly61FrVSRPcxNZcbAePeKDAICAahIzbqUPNYE2izvkFrGDgLjbWnx436jhYWDNpYGSfcAAiJNwWNajN4rCU8ZxagzAMMTwBhTcoFNJ8DrrEmBWRpxkD0sgQCwiZVg5kthmbA7o9xu5YlCQptW6F5vUXQjC6u/Sl4AxvXdu7NhE6ujpMrgDAzFXifI2pNEHSuNcMHT8hTzFqUtlm5BgMsrzSCT681RTDquecMAoQ54xS3TlJ1ZlNTIHKcoY8H4Ke51wyN6MYIvZ2U4wuIQBlQnTC9SRY3j6CLN7SP2z060XaCsRfUvxjynufaDeuTqxSeFsoasYXbTYCT1DMFyURB3FzqGQQIk+kebvcRmcbJaQqGFF/KSOu7GMUdmMeG0BAPCViQXNOIp86nOjWPr5hzoAV4iwGGMJn71IYIyr5y4hUAiiVPXxAmj2NA5JjE5jd3MNRpUuON7MDTrAMUTs1tofIt7fQlMCURZ4yF+SUKz4t5Kghj4zZyjIp4dYrMlPMaS5gJA3Qo+h38eP+iB41RlbM+6iXuQoFh8Bo2zKOGx1sgX8kbvMmmARBXA3QsvY0ENfdgxBUCowxNqInH/d/fvjw//3j4wJALqTqqf+PAACBVnHpJ0wQm6N4b+56/cJwxiTx6tr16t776eulOyVRlHyJzVuG6TwA5ufMmWcmf0dn52HtV+nX2+SU2L6UCF8zEXAUw12S5cHPk0s3+PHn3/XD7cRWmI2OPEWnDILWZIGW2NbYeQ91cBE0yAbNDag2Oql6jos0LHdGzVoRXcRGCD6KSOk7kuOIVNWfioAsLPtSAUAFOE0GNdE9VqKKp7TKAIrL08Ty00IN3TfT1Y+4p2+IOTnldaMIRMs0NJFjjiHl3RFMFnZqIEh1DjSKsflGIWf/g36qkTdSWYyyiqwc6+DTYjahq/R8PVecTruHrl0/XAwDO2lE1fFKsCq08iPmBaADQW2mKR8thZBRUI8DCksT9A7GxOjjHEdrXNsyXVCtU4raOsU5WnCHj+F5EQSWOtHSg8bFnGGIq6tkwwYch1a+RZs1hYIyFrZ9wASZlEbcrQuW+lnUq8yvJlBvEWdH6xMmAffBbonGhYMAMLC142WRG581FgcIuDm7upHD1t4MjTUOU+pu+p7RTmIgOcAMecXLXihOsizqDcqsdgGIlXGQTJlfWQHelaoM4GwmJU67bEyVFK6J6Fj8c54XAM6jii4w1jkPsckW0NaG66wCybDhJE5E6aQgKwRmvt27KTjNJ1ICyq3GAJdxtB4spGsa2EXxdq0vQO+USpQYOUQGbmSwlRNwHl6hFNxIMl6dsBdh5SaThvcKMJSgCdYM4ATac5h8yVkjs4hqiWmfWYAQFXWVwwg4SLB8glRF5VkSdIMq0ygDCCYhjLgEG82+mJc5pgqGEOaBDC5X5hZRuSPYYJAcBf1/qCTBmrhVhnMGb7Iv7mgYEq/SGTOFjiBpjh/BRP2HEOX3NwGKUj7a0IomPWsbIYONehP+PEnue1aHi7R/pU7rWmy5/BRgAQpVg+VLq/OwAAAAASUVORK5CYII=\n<!doctype html>",
+			" \n<!doctype html>",
+			"\n<!doctype html>",
+			"<?php include \"sitecake/server/sitecake_entry.php\"; ?>\n<!doctype html>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"to",
+				"TODO"
+			],
+			[
+				"conf",
+				"config.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-project"
+			],
+			[
+				"",
+				"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-project"
+			],
+			[
+				"sb",
+				"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-project"
+			],
+			[
+				"new",
+				"/Volumes/HDD/Work/Indigo/SBV/SBV_Web-Redesign/_local/new-sbv.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,24 @@
+$color-text: 				#333;
+
+$color-primary: 			#c4122f;
+
+$color-secondary: 			#{$edit-me}; // #{$edit-me}
+$color-secondary_Xlight:  	lighten($color-secondary, 30%);
+$color-secondary_light: 	lighten($color-secondary, 15%);
+$color-secondary_dark: 		darken($color-secondary, 15%);
+$color-secondary_Xdark: 	darken($color-secondary, 30%);
+
+$color-grey: 				#808080;
+$color-grey_XXlight: 		lighten($color-grey, 47%);// #f8f8f8
+$color-grey_Xlight: 		lighten($color-grey, 42%);// #ebebeb
+$color-grey_lighter: 		lighten($color-grey, 36%);// #dcdcdc
+$color-grey_lightish:		lighten($color-grey, 25%);// #cccccc
+$color-grey_light: 			lighten($color-grey, 30%);// #cccccc
+$color-grey_dark: 			darken($color-grey, 30%);
+$color-grey_Xdark: 			darken($color-grey, 40%);
+
+
+
+$color-alert: 				#c60f13;
+$color-success: 			#5da423;
+$color-highlight: 			#ffff99;
