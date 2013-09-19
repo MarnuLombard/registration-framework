@@ -24,7 +24,7 @@
 	<!--[if (lt IE 9) & (!IEMobile)]>
 		<link rel="stylesheet" href="css/no-mq.css" rel="stylesheet" />
 	<![endif]-->
-	
+
 	<!--[if (gt IE 9) | (IEMobile)]><!-->
 		<link rel="stylesheet" href="css/style.css" rel="stylesheet" />
 	<!--<![endif]-->
@@ -53,13 +53,132 @@
 
 	<section class="main" role="main">
 
-		<div class="text g">
-
-		</div><!-- //body -->
-
-		<aside class="sidebar g">
-
-		</aside><!-- //sidebar -->
+	<div id="content" class="center">
+    <h1>Fancy Sliding Form with jQuery</h1>
+      <div id="wrapper" class="overflow-wrapper">
+        <div id="steps" class="form-container">
+          <form id="formElem" name="formElem" class="regForm" action="" method="post">
+            <fieldset class="step">
+              <legend class="header--frame"><h2>Account</h2></legend>
+              <p>
+								<label for="cname">Name (required)</label>
+								<input id="cname" name="name" minlength="2" type="text" required />
+							<p>
+								<label for="cemail">E-Mail (required)</label>
+								<input id="cemail" placeholder="info@tympanus.net" type="email" name="email" required />
+							</p>
+							<p>
+								<label for="curl">URL (optional)</label>
+								<input id="curl" type="url" name="url" />
+							</p>
+							<p>
+								<label for="ccomment">Your comment (required)</label>
+								<textarea id="ccomment" name="comment" required></textarea>
+							</p>
+            </fieldset>
+            <fieldset class="step">
+                <legend class="header--frame"><h2>Personal Details</h2></legend>
+                <p>
+                    <label for="name">Full Name</label>
+                    <input id="name" name="name" type="text" AUTOCOMPLETE=OFF />
+                </p>
+                <p>
+                    <label for="country">Country</label>
+                    <input id="country" name="country" type="text" AUTOCOMPLETE=OFF />
+                </p>
+                <p>
+                    <label for="phone">Phone</label>
+                    <input id="phone" name="phone" placeholder="e.g. +351215555555" type="tel" AUTOCOMPLETE=OFF />
+                </p>
+                <p>
+                    <label for="website">Website</label>
+                    <input id="website" name="website" placeholder="e.g. http://www.codrops.com" type="tel" AUTOCOMPLETE=OFF />
+                </p>
+            </fieldset>
+            <fieldset class="step">
+                <legend class="header--frame"><h2>Payment</h2></legend>
+                <p>
+	                <label for="cardtype">Card</label>
+	                <select id="cardtype" name="cardtype">
+	                    <option>Visa</option>
+	                    <option>Mastercard</option>
+	                    <option>American Express</option>
+	                </select>
+                </p>
+                <p>
+                    <label for="cardnumber">Card number</label>
+                    <input id="cardnumber" name="cardnumber" type="text" AUTOCOMPLETE=OFF />
+                </p>
+                <p>
+                    <label for="secure">Security code</label>
+                    <input id="secure" name="secure" type="text" AUTOCOMPLETE=OFF />
+                </p>
+                <p>
+                    <label for="namecard">Name on Card</label>
+                    <input id="namecard" name="namecard" type="text" AUTOCOMPLETE=OFF />
+                </p>
+            </fieldset>
+            <fieldset class="step">
+                <legend class="header--frame"><h2>Settings</h2></legend>
+                <p>
+                    <label for="newsletter">Newsletter</label>
+                    <select id="newsletter" name="newsletter">
+                        <option value="Daily" selected>Daily</option>
+                        <option value="Weekly">Weekly</option>
+                        <option value="Monthly">Monthly</option>
+                        <option value="Never">Never</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="updates">Updates</label>
+                    <select id="updates" name="updates">
+                        <option value="1" selected>Package 1</option>
+                        <option value="2">Package 2</option>
+                        <option value="0">Don't send updates</option>
+                    </select>
+                </p>
+								<p>
+                    <label for="tagname">Newsletter Tag</label>
+                    <input id="tagname" name="tagname" type="text" AUTOCOMPLETE=OFF />
+                </p>
+              </fieldset>
+							<fieldset class="step">
+                <legend class="header--frame"><h2>Confirm</h2></legend>
+								<p>
+									Everything in the form was correctly filled
+									if all the steps have a green checkmark icon.
+									A red checkmark icon indicates that some field
+									is missing or filled out with invalid data. In this
+									last step the user can confirm the submission of
+									the form.
+								</p>
+                <p class="submit">
+                    <button id="registerButton" type="submit">Register</button>
+                </p>
+            </fieldset>
+          </form>
+        </div> <!-- // steps -->
+        <div id="navigation" class="navigation__form" style="display:none;">
+	        <ul class="nav--wrapper__form">
+            <li class="nav--item selected">
+                <a href="#">Account</a>
+            </li>
+            <li class="nav--item">
+                <a href="#">Personal Details</a>
+            </li>
+            <li class="nav--item">
+                <a href="#">Payment</a>
+            </li>
+            <li class="nav--item">
+                <a href="#">Settings</a>
+            </li>
+						<li class="nav--item">
+                <a href="#">Confirm</a>
+            </li>
+	        </ul>
+        </div> <!-- // nav -->
+      </div><!-- // wrapper -->
+    </div><!-- //content -->
 
 	</section><!-- //main -->
 
@@ -72,9 +191,9 @@
 
 <!--//- Scripts -//-->
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>
-		window.jQuery || document.write('<script src="js/jquery-1.9.1.min.js"><\/script>')
+		window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')
 	</script>
 
 	<script src="js/script.min.js"></script>

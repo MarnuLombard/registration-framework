@@ -2,6 +2,8 @@
 
 @import "vars/buttons-vars";
 @import "vars/color-vars";
-@import "vars/inuit-vars";
-@import "vars/typleplate-vars";
+@import "vars/typeplate-vars";
 @import "vars/typography-vars";
+
+
+@import "vars/inuit-vars"; //--> Import last

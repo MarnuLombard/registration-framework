@@ -1,0 +1,7 @@
+@mixin inline-block__hack {
+	display:-moz-inline-stack;
+	display:inline-block;
+	zoom:1;
+	*display:inline;
+	vertical-align: top;
+}

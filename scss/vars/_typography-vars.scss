@@ -1,3 +1,6 @@
-$font-body: 			"#{$edit-me}", "Helvetica Neue", "Helvetica", sans-serif;
-$font-headings: 	"#{$edit-me}", "Helvetica Neue", "Helvetica", sans-serif;
-$font-icons: 			#{$edit-me};
+$font-body: 			"Helvetica Neue", "Helvetica", sans-serif;
+$font-headings: 	"Hoefler Text", "Baskerville old face", Garamond, "Times New Roman", serif;
+$font-icons: 			"fontawesome-webfont";
+
+$font-primary: 		$font-headings;
+$font-secondary:  $font-body;

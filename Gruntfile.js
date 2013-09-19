@@ -6,19 +6,19 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
-        // watch for changes and trigger sass, jshint, uglify and livereload
+        // watch for changes and trigger sass, concat, uglify and livereload
         watch: {
             sass: {
                 files: ['scss/**/*.{scss,sass}'],
                 tasks: ['sass']
             },
             js: {
-                files: '<%= jshint.all %>',
-                tasks: ['jshint', 'uglify']
+                files: ['Gruntfile.js','js/plugins/*.js','js/app/*.js','js/ie/*js'],
+                tasks: ['concat', 'uglify']
             },
             livereload: {
                 options: { livereload: true },
-                files: ['css/style.css', 'js/*.js', '*.html', '*.php', 'images/**/*.{png,jpg,jpeg,gif,webp,svg}']
+                files: ['css/style.css', 'js/*.js', '*.php']
             }
         },
 
@@ -33,63 +33,36 @@ module.exports = function(grunt) {
                     cache: 'delete/'
                 },
                 files: {
-                    // 'scss/style.scss':'css/style.css',
-                    // 'scss/no-mq.scss':'css/no-mq.css'
                     'css/style.css':'scss/style.scss',
                     'css/no-mq.css':'scss/no-mq.scss'
                 }
             }
         },
 
-        // javascript linting with jshint
-        jshint: {
-            options: {
-                jshintrc: '.jshintrc',
-                "force": true,
-                ignores: ['js/ie/selectivizr.js']
-            },
-            all: [
-                'Gruntfile.js',
-                'js/source/**/*.js'
-            ]
+        // concat files
+        concat: {
+            ie: {
+                files: {
+                    'js/ie.min.js': [
+                        'js/ie/selectivizr.min.js'
+                    ]
+                }
+            }
         },
 
         // uglify to concat, minify, and make source maps
         uglify: {
             plugins: {
-                options: {
-                    sourceMap: 'js/script.js.map',
-                    sourceMappingURL: 'script.js.map',
-                    sourceMapPrefix: 2
-                },
                 files: {
                     'js/script.min.js': [
-                        'js/source/*.js'
-                    ]
-                }
-            },
-            main: {
-                options: {
-                    sourceMap: 'js/app.js.map',
-                    sourceMappingURL: 'app.js.map',
-                    sourceMapPrefix: 2
-                },
-                files: {
-                    'js/app.min.js': [
-                        'js/source/app.js'
+                        'js/plugins/*.js'
                     ]
                 }
             },
             app: {
-                options: {
-                    sourceMap: 'js/ie.js.map',
-                    sourceMappingURL: 'ie.js.map',
-                    sourceMapPrefix: 2
-                },
                 files: {
-                    'js/ie.min.js': [
-                        'js/ie/selectivizr.js',
-                        'js/ie/ie.js'
+                    'js/app.min.js': [
+                        'js/app/app.js'
                     ]
                 }
             }

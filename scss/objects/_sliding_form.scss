@@ -1,0 +1,167 @@
+/**
+ * This is from a tympanus.net article : http://tympanus.net/codrops/2010/06/07/fancy-sliding-form-with-jquery/
+ * The css was converted to scss by : http://css2sass.heroku.com/
+ *
+ */
+
+// body {
+//   color: #444444;
+//   font-size: 13px;
+//   background: #f2f2f2;
+//   font-family: "Century Gothic", Helvetica, sans-serif;
+// }
+
+$form-width:      600px;
+$form-border:     1px solid $color-primary_light;
+$element-border:  $form-border;
+$formNav-Height:  45px;
+
+
+#content {
+  width: $form-width;
+  position: relative;
+  height: 100%;
+}
+
+.overflow-wrapper {
+  @include border-radius(10px);
+  width: $form-width;
+  overflow: hidden;
+  border: $form-border;
+}
+
+.form-container {
+  width: $form-width;
+  overflow: hidden;
+}
+
+.regForm {
+  .step { //fieldset
+    float: left;
+    width: $form-width;
+  }
+
+  .header--frame {
+    margin: -2px 0 10px;
+    padding: 5px 0px 5px 30px;
+    width: $form-width;
+    border-bottom: $element-border;
+  }
+
+  p {
+    float: left;
+    clear: both;
+    margin: 5px 0px;
+    background-color: #f4f4f4;
+    border: 1px solid #fff;
+    width: 400px;
+    padding: 10px;
+    margin-left: 100px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 3px #aaa;
+    -webkit-box-shadow: 0px 0px 3px #aaa;
+    box-shadow: 0px 0px 3px #aaa;
+    label {
+      width: 160px;
+      float: left;
+      text-align: right;
+      margin-right: 15px;
+      line-height: 26px;
+      color: #666;
+      text-shadow: 1px 1px 1px #fff;
+      font-weight: bold;
+    }
+  }
+
+  input:not([type=radio]), textarea, select {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    outline: none;
+    padding: 5px;
+    width: 200px;
+    float: left;
+  }
+  input:focus {
+    -moz-box-shadow: 0px 0px 3px #aaa;
+    -webkit-box-shadow: 0px 0px 3px #aaa;
+    box-shadow: 0px 0px 3px #aaa;
+    background-color: #FFFEEF;
+  }
+  p.submit {
+    background: none;
+    border: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+  button {
+    border: none;
+    outline: none;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+    display: block;
+    cursor: pointer;
+    margin: 0px auto;
+    clear: both;
+    padding: 7px 25px;
+    text-shadow: 0 1px 1px #777;
+    font-weight: bold;
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    font-size: 22px;
+    -moz-box-shadow: 0px 0px 3px #aaa;
+    -webkit-box-shadow: 0px 0px 3px #aaa;
+    box-shadow: 0px 0px 3px #aaa;
+    background: #4797ED;
+    &:hover {
+      background: #d8d8d8;
+      color: #666;
+      text-shadow: 1px 1px 1px #fff;
+    }
+  }
+}// forwrapper
+
+
+.navigation__form {
+  width: 604px;
+  height: $formNav-Height;
+  margin-left: -2px;
+  border-top: $element-border;
+}
+  .nav--wrapper__form {
+    @include even-distribution__wrapper;
+    margin: 0;
+    list-style: none;
+
+    .nav--item {
+      @include even-distribution__item;
+      border-right: $element-border;
+      border-left: $element-border;
+      padding: 0 14px;
+
+      a {
+        display: block;
+        height: 45px;
+        text-decoration: none;
+        line-height: 45px;
+
+        &:hover {
+          background: #d8d8d8;
+          color: #666;
+          text-shadow: 1px 1px 1px #fff;
+        }
+      }
+
+      &.selected {
+        background: #d8d8d8;
+        color: #666;
+        text-shadow: 1px 1px 1px #fff;
+      }
+    }
+  } // nav wrapper form

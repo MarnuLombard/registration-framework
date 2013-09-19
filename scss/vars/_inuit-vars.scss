@@ -45,7 +45,7 @@ $brand-round:        4px!default;
 /**
  * Responsiveness?
  */
-$responsive:        #{$edit-me};
+$responsive:        false;
 
 /**
  * Responsiveness for widescreen/high resolution desktop monitors and beyond?
@@ -110,8 +110,8 @@ $close-quote:   null;
 /**
  * Brand stuff
  */
-$brand-color:       #{$edit-me};
-$brand-face:        #{$edit-me};
+$brand-color:       $color-primary;
+$brand-face:        $font-primary;
 
 
 /**

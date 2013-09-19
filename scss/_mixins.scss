@@ -2,6 +2,8 @@
 @import "mixins/enhance-with";
 @import "mixins/font-face";
 @import "mixins/gradients";
+@import "mixins/inline-block__hack";
+@import "mixins/even-distribution";// after inline-block__hack
 @import "mixins/icon-fonts";
 @import "mixins/RGBa";
 @import "mixins/svg-fallback";

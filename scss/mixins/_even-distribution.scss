@@ -1,0 +1,13 @@
+@mixin even-distribution__wrapper{
+    text-align: justify;
+	
+	&:after{
+	    content: '';
+	    display: inline-block;
+	    width: 100%;
+	}
+}
+ 
+@mixin even-distribution__item{
+    @include inline-block__hack;
+}
